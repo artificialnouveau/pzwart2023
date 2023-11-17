@@ -6,7 +6,7 @@ git clone https://github.com/artificialnouveau/my-voice-analysis.git
 git clone ...
 conda create -n "voiceanalysis" python=3.8
 conda activate voiceanalysis
-pip install openai-whisper soundfile simple-diarizer pydub matplotlib seaborn spleeter jupyterlab notebook pydub pytube moviepy matplotlib simple-diarizer
+pip install openai-whisper soundfile simple-diarizer pydub matplotlib seaborn spleeter jupyterlab notebook pydub pytube moviepy matplotlib simple-diarizer soundfile
 conda install -c conda-forge ffmpeg
 $env:PATH += ";C:\Program Files\Git\bin"
 pip install git+https://github.com/artificialnouveau/my-voice-analysis/

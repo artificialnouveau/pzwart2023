@@ -16,6 +16,9 @@ setup(
         "notebook",
         "pytube",
         "moviepy",
+        "ffmpeg",
+        "ffmpeg-python", 
+        "httpx[http2]"
     ],
     dependency_links=[
         "git+https://github.com/artificialnouveau/my-voice-analysis/#egg=my-voice-analysis"

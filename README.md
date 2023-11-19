@@ -5,6 +5,8 @@
 To setup:
 
 ```
+git clone https://github.com/artificialnouveau/pzwart2023.git
+cd pzwart2023
 python setup.py install
 ```
 If you would like to play with the speaker verification then run this as well:

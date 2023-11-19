@@ -19,3 +19,6 @@ To setup:
 ```
 python setup.py install
 ```
+
+To use on binder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artificialnouveau/pzwart2023/HEAD)

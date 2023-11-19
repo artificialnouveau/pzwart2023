@@ -13,3 +13,9 @@ pip install git+https://github.com/artificialnouveau/my-voice-analysis/
 cd ...
 jupyter notebook
 ```
+
+To setup:
+
+```
+python setup.py install
+```

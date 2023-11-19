@@ -1,4 +1,4 @@
-# pzwart2023
+# Piet Zwart: Intro to Machine Listening and Voice Analysis
 
 ## Instructions
 

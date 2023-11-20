@@ -21,7 +21,7 @@ To use Google Colab:[![Open Voice Cloning Notebook In Colab](https://colab.resea
 
 ## Usage
 
-Follow the steps in the provided Colab notebooks to learn about and experiment with voice and face cloning technologies.
+Follow the steps in the provided Colab notebooks to learn about and experiment with voice analysis techniques.
 
 ## Contributing
 

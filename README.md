@@ -17,7 +17,7 @@ pip install speaker-verification
 To use on binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/artificialnouveau/pzwart2023/HEAD)
 
-To use Google Colab:[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/aa0383017f796f668dc1d352f8cdba59/pietzwart_workshop_voice_analysis.ipynb?authuser=1)
+To use Google Colab:[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/211ce298fd595e69b19b356bda303dde/pietzwart_workshop_voice_analysis.ipynb?authuser=1)
 
 ## Usage
 

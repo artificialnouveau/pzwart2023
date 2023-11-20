@@ -21,10 +21,10 @@ To use Google Colab:[![Open Voice Cloning Notebook In Colab](https://colab.resea
 
 
 Notebook for Voice Cloning:
-[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/50a72b1f9be58767ffe6270117de0fd1/impakt2023-voice-cloning-with-advanced-rvc-inference.ipynb?authuser=1)
+[![Open Voice Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/ed4f01cbbb665887cf41d1e672d73430/impakt2023-voice-cloning-with-advanced-rvc-inference.ipynb?authuser=1)
 
 Notebook for Face Cloning:
-[![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/775ea2642c0c71ce06552f394c11f6ae/impakt2023-face-cloning-with-sad-talker.ipynb?authuser=1)
+[![Open Face Cloning Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gist/artificialnouveau/95ae09264aa3a48557d1e90c97c1a159/impakt2023-face-cloning-with-sad-talker.ipynb?authuser=1)
 
 
 ## Usage
